@@ -1,6 +1,6 @@
 **Worst clock implementation prototype**
 
-1. triggering funtion on a timer
+1. triggering function on a timer
 
 2. incrementing hex counter
 
