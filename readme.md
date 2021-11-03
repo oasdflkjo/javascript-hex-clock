@@ -1,4 +1,4 @@
-**Worst clock implementation prototype**
+**Worst clock prototype**
 
 1. triggering function on a timer
 
