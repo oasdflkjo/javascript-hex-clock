@@ -11,3 +11,5 @@ TODO
 1. get current user time
 
 2. convert user time to hex value according to https://en.wikipedia.org/wiki/Hexadecimal_time
+
+Hosted at https://oasdflkjo.github.io/javascript-hex-clock/
